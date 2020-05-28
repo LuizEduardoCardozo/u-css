@@ -1,7 +1,7 @@
 # u-css
 Remove all useless css
 
-# use
+## use
 main.py [html-source] [css-source]
 
 ## to-do
